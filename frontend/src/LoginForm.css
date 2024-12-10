@@ -1,0 +1,120 @@
+#signup-form-container,
+#login-form-container{
+    display: flex;
+    justify-content: center;
+}
+
+#signup-form-container input,
+#login-form-container input {
+display: block;
+margin-bottom: 20px;
+border: 1px solid #E5E9F5;
+background-color: #F6F7FA;
+padding: 20px;
+margin-top: 10px;
+border-radius: 10px;
+width: 100%;
+text-align: left;
+}
+
+#sign-up-container, #sign-in-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 20px gainsboro;
+    padding: 60px 80px;
+    width: 400px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#sign-up-container, #sign-in-container  h3{
+    color: #3D6094;
+    font-size: 150%;
+    font-weight: 500;
+    justify-content: center;
+    text-align: center;
+}
+
+#form-controls {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#recovery {
+    margin-bottom: 20px;
+}
+
+label {
+    color: #7369AB;
+    text-align: left;
+    display: block;
+}
+
+::placeholder {
+    color: #C0C7DB;
+    font-size: larger;
+    letter-spacing: 1.2px;
+}
+
+#form-controls button {
+    border: none;
+    font-size: 120%;
+}
+
+
+#form-controls button:hover {
+    cursor: pointer;
+}
+
+#recovery button {
+    border: none;
+    font-size: 120%;
+}
+
+
+#recovery button:hover {
+    cursor: pointer;
+}
+
+button[type="submit"] {
+    padding: 16px 75px;
+    background-color: #3D6094;
+    border-radius: 10px;
+    color: white;
+}
+
+button[type="submit"]:hover {
+    background-color: #3D6094;
+}
+
+button[type="button"] {
+    padding: 16px 0 16px 35px;
+    background-color: transparent;
+    color: #3D6094;
+}
+
+.hide {
+    display: none!important;
+}
+
+#animation-container {
+    display: inline-block;
+}
+
+* {
+    text-decoration: none;
+}
+
+#gender {
+    width: 32%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url('data:image/svg+xml;charset=US-ASCII,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10"><path d="M0 0l5 5 5-5z" fill="%23808080"/></svg>') no-repeat right 10px center/8px 8px;
+    background-color: #f9f9f9; 
+}

@@ -1,0 +1,24 @@
+#birthdate-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#birthdate-container select {
+  width: 32%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url('data:image/svg+xml;charset=US-ASCII,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10"><path d="M0 0l5 5 5-5z" fill="%23808080"/></svg>') no-repeat right 10px center/8px 8px;
+  background-color: #f9f9f9; 
+}
+
+#birthdate-container select:focus {
+  border-color: #007bff;
+  outline: none;
+}
