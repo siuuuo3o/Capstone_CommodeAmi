@@ -1,9 +1,11 @@
 # CommodeAmi
 
 ## 🤝TEAM
+
 | <img src="https://github.com/user-attachments/assets/46fa9b3a-4359-4e59-be8e-dd33561056c1" width="200" height = "160"> |<img src="https://github.com/user-attachments/assets/91d1a91b-b27a-442a-a1df-1f3e4d7d1a86" width="200" height = "160">|
 |:---------------------------------------------------------------:| :-----------------------------------: |
-|               [김시우](https://github.com/siu98)               | [오세범](https://github.com/dhtpqja) | 
+|               김시우              |      오세범      | 
+|[![GitHub Link](https://img.shields.io/badge/GitHub-Link-black?style=for-the-badge&logo=github)](https://github.com/siu98) | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-black?style=for-the-badge&logo=github)](https://github.com/dhtpqja) |
 
 ## 🛠️기술스택
 ### 1. Backend
