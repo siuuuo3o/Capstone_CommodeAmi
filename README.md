@@ -24,7 +24,7 @@
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white) |
 
 ## 📋전체 프로젝트 일정
-**프로젝트 일정: 2024년 3월 20일 ~ 2024년 6월 30일**
+**프로젝트 일정: 2024년 3월 15일 ~ 2024년 6월 17일**
 
 ### 목차
 
