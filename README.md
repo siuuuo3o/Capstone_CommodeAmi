@@ -200,15 +200,16 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>회원가입</summary>
-  ![1](https://github.com/user-attachments/assets/c03f09be-571d-46c4-bab5-a7e0448770b1)
-
+       <img src="https://github.com/user-attachments/assets/c03f09be-571d-46c4-bab5-a7e0448770b1" alt="회원가입">
   - <details>
 
     <summary>로그인</summary>
+    <img src="https://github.com/user-attachments/assets/43616dae-1be2-4fb4-8dbe-8f26197655d9" alt="로그인">
 
   - <details>
 
     <summary>로그아웃</summary>
+     <img src="" alt="로그아웃">
 
 
   </details>
@@ -221,10 +222,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>영화 정보 조회</summary>
-
-  - <details>
-
-    <summary>영화 배우 조회</summary>
+     <img src="" alt="로그아웃">
 
   </details>
 
@@ -237,10 +235,12 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>별점 생성</summary>
+     <img src="https://github.com/user-attachments/assets/243a039b-414c-4235-af93-c17ee02a006f" alt="별점 생성">
 
   - <details>
 
     <summary>별점 수정</summary>
+    <img src="https://github.com/user-attachments/assets/5facfa3e-c519-45b6-9d28-06e43cb73c5a" alt="별점 수정">
 
   </details>
 
@@ -256,6 +256,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>리뷰 수정</summary>
+         <img src="https://github.com/user-attachments/assets/80e9d576-6d96-4790-add3-5566ca309029" alt="리뷰 수정">
 
   </details>
 
@@ -267,10 +268,12 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>커스텀 티켓 생성</summary>
+         <img src="https://github.com/user-attachments/assets/bbca2032-b4df-4dc5-8036-2e9d336bc65a" alt="커스텀 티켓 생성">
 
   - <details>
 
     <summary>커스텀 티켓 삭제</summary>
+         <img src="https://github.com/user-attachments/assets/b46ff4b3-536b-4961-97bc-671ee00ee9f6" alt="커스텀 티켓 삭제">
 
   </details>
 
@@ -282,7 +285,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>별점 조회</summary>
-
+          <img src="" alt="로그아웃">
   - <details>
 
     <summary>리뷰 조회</summary>
@@ -293,9 +296,8 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
     
   </details>
 
-   <details>
-
   ### 6.7 추천
+<details>
   
   <summary>추천</summary>
 
