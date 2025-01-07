@@ -3,7 +3,7 @@
 ## 🤝TEAM
 | <img src="https://github.com/user-attachments/assets/46fa9b3a-4359-4e59-be8e-dd33561056c1" width="200" height = "160"> |<img src="https://github.com/user-attachments/assets/91d1a91b-b27a-442a-a1df-1f3e4d7d1a86" width="200" height = "160">|
 |:---------------------------------------------------------------:| :-----------------------------------: |
-|               [김시우](docs/img/profile/siu98)               | [오세범](docs/img/profile/오세범.png) | 
+|               [김시우](https://github.com/siu98)               | [오세범](https://github.com/dhtpqja) | 
 
 ## 🛠️기술스택
 ### 1. Backend
@@ -28,12 +28,11 @@
 
 - [1. 프로젝트 개요](#1-프로젝트-개요)
 - [2. 요구사항 명세서](#2-요구사항-명세서)
-- [3. WBS ](#3-WBS)
-- [4. DB 모델링 ](#4-DB-모델링)
-- [5. UI 설계 ](#5-UI-설계)
-- [6. 프론트엔드 및 백엔드 테스트 결과 ](#6-프론트엔드-백엔드-테스트-결과)
-- [7. 동료 평가 ](#7-동료-평가)
-- [8. 느낀점 및 성과 ](#8-느낀점-성과)
+- [3. DB 모델링 ](#3-DB-모델링)
+- [4. UI 설계 ](#4-UI-설계)
+- [5. 프론트엔드 및 백엔드 테스트 결과 ](#5-프론트엔드-백엔드-테스트-결과)
+- [6. 동료 평가 ](#6-동료-평가)
+- [7. 느낀점 및 성과 ](#7-느낀점-성과)
 
 ---
 
@@ -107,9 +106,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
    <img src="https://github.com/user-attachments/assets/ba3cf781-a053-4604-9e9f-40efd8bcdbbb" alt="커스텀 티켓">
  </details>
 
-## 🍀3. WBS
-
-## 🍀4. DB 모델링
+## 🍀3. DB 모델링
 
 <details>
   <summary>회원</summary>
@@ -136,7 +133,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
    <img src="https://github.com/user-attachments/assets/efb7f131-2077-47f1-b2c1-078adcca8457" alt="커스텀 티켓">
  </details>
 
- ## 🍀5. UI 설계
+ ## 🍀4. UI 설계
  
 <details>
   <summary>메인화면</summary>
@@ -190,9 +187,9 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
    <img src="https://github.com/user-attachments/assets/c920633e-f6c2-4541-9470-741c043be875" alt="마이페이지">
  </details>
 
- ## 🍀6. 프론트엔드 테스트 결과 
+ ## 🍀5. 프론트엔드 및 백엔드 테스트 결과 
 
- ### 6.1 회원
+ ### 5.1 회원
  
  <details>
   <summary>회원</summary>
@@ -209,12 +206,12 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>로그아웃</summary>
-     <img src="" alt="로그아웃">
+     <img src="https://github.com/user-attachments/assets/7d227bb2-84ad-4317-9a9f-f5cd4217942b" alt="로그아웃">
 
 
   </details>
 
- ### 6.2 영화
+ ### 5.2 영화
  
  <details>
   <summary>영화</summary>
@@ -222,12 +219,12 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>영화 정보 조회</summary>
-     <img src="" alt="로그아웃">
+     <img src="https://github.com/user-attachments/assets/93acb9a3-01da-4728-a947-9127ff9eef01" alt="영화 정보 조회">
 
   </details>
 
 
-   ### 6.3 별점
+   ### 5.3 별점
  
  <details>
   <summary>별점</summary>
@@ -244,7 +241,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
 
   </details>
 
-  ### 6.4 리뷰
+  ### 5.4 리뷰
  
  <details>
   <summary>리뷰</summary>
@@ -252,6 +249,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
   - <details>
 
     <summary>리뷰 생성</summary>
+    <img src="https://github.com/user-attachments/assets/ae3c0187-242d-45c1-91a1-15ba7be024ac" alt="별점 수정">
 
   - <details>
 
@@ -260,7 +258,7 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
 
   </details>
 
-  ### 6.5 커스텀 티켓
+  ### 5.5 커스텀 티켓
  
  <details>
   <summary>커스텀 티켓</summary>
@@ -277,58 +275,51 @@ CommodeAmi는 프랑스어로 "Commode(편리한)"와 "Ami(친구)"의 결합으
 
   </details>
 
-  ### 6.6 마이페이지
+  ### 5.6 마이페이지
  
  <details>
   <summary>마이페이지</summary>
 
   - <details>
 
-    <summary>별점 조회</summary>
-          <img src="" alt="로그아웃">
-  - <details>
+    <summary>마이페이지 조회</summary>
+          <img src="https://github.com/user-attachments/assets/99ed0aa6-e5b8-417f-8a8d-966c370ae026" alt="마이페이지 조회">
 
-    <summary>리뷰 조회</summary>
-
-  - <details>
-
-    <summary>커스텀 티켓 조회</summary>
-    
   </details>
 
-  ### 6.7 추천
+  ### 5.7 추천
 <details>
   
-  <summary>추천</summary>
+  <summary>날씨기반추천</summary>
 
   - <details>
 
-    <summary>추천 영화 조회</summary>
-    
+    <summary>날씨기반 랜덤추천영화 조회</summary>
+              <img src="https://github.com/user-attachments/assets/e7527760-517b-4f7b-99cc-de1a2f11c2f3" alt="날씨기반 랜덤추천영화 조회">
   </details>
 
 
-  ### 6.8 검색
-  
+  ### 5.8 검색
+  <details>
   <summary>검색</summary>
 
   - <details>
 
     <summary>영화 검색</summary>
-    
+     <img src="https://github.com/user-attachments/assets/3021a5dc-c6cb-4116-a06a-0f3b4c0a3ced" alt="영화 검색">
   </details>
   
 
-## 🍀7. 동료 평가 
-#### 김시우
+## 🍀6. 동료 평가 
+#### 김시우에 대한 평가
 > **오세범**: 
 > 프론트엔드 부분을 맡았음에도 불구하고 백엔드 부분도 엄청 많이 도와줘서 프로젝트가 성황리에 마무리 될 수 있었다. 풀스택을 도전해봐도 될 팀원이다. 
 
-#### 오세범
+#### 오세범에 대한 평가
 > **김시우**:
 > 소통을 하면서 부탁을 많이 했었는데 맡은 부분을 끝까지 해결해줘서 너무 고마웠다. 또한, 힘든 부분에 직면했을 때마다 응원해주고 항상 긍정적으로 생각해줘서 멘탈적으로도 나에게 도움을 주었던 것 같다.  
 
-## 🍀8. 느낀점 및 성과
+## 🍀7. 느낀점 및 성과
 #### 김시우
 > 캡스톤 디자인이라는 과목 덕분에 처음으로 웹프로젝트를 진행하게 되었다. 이번에는 프론트를 맡아 진행하면서 흥미를 느끼고 뚜렸한 진로가 없었던 나에게 정할 수 있게 된 계기가 된 것같다. 이 후 현재 프로젝트의 문제점을 보완하고 백엔드의 경우에는 Java를 사용하여 고도화를 함으로써 풀스택을 도전해보고 싶다.
 #### 오세범
